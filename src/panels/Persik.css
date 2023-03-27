@@ -1,0 +1,22 @@
+.Persik {
+  display: block;
+  width: 30%;
+  max-width: 240px;
+  margin: 20px auto;
+}
+
+.persiktwo {
+  margin-top: 10px;
+}
+
+.clicker {
+  position: relative;
+ display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+}
+.clicker__element {
+  /*position: absolute;*/
+  margin: 10px;
+}
